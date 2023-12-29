@@ -1,0 +1,928 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head><meta charset="UTF-8">	
+		
+		<meta name="robots" content="noindex, nofollow">
+		<title>👨‍🔧 Ремонт квартир в Мадриде | Цены на ремонт от 130 евро.</title>
+		<meta name="description" content="👨‍🔧 Услуги по ремонту и обивке мебели недорого без посредников. Опыт работы 17 лет. Гарантия 3 года. Работаем в Бресте и Бресткой обл.">
+		<meta property="og:type" content="website">
+		<meta property="og:locale" content="es">
+		<meta property="og:image" content="peret/img/logo_green.svg">
+		<meta property="og:site_name" content="👨‍🔧 Ремонт квартир в Мадриде">
+		<meta property="og:title" content="👨‍🔧 Ремонт квартир в Мадриде">
+		<meta property="og:description" content="Ремонт квартир в Мадриде. Наша команда осуществляет услуги по перетяжке и ремонту мягкой мебели. Обивка кресел, диванов, кроватей любой сложности с гарантированным результатом. Акции! Гарантийное обслуживание 10 лет. Бесплатный выезд!">
+		<meta property="og:url" content="👨‍🔧 Ремонт квартир в Мадриде">
+		<link rel="canonical" href="">
+		<meta name="geo.region" content="ES-M">
+		<meta name="geo.placename" content="Madrid">
+		<meta name="geo.position" content="40.423728;-3.689904">
+		<meta name="ICBM" content="40.423728, -3.689904">
+		<meta name="theme-color" content="#00a335">
+		<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<link rel="apple-touch-icon" href="peret/img/favicon.svg">
+		<link rel="icon" type="image/png" href="peret/img/favicon.svg">
+		<link rel="stylesheet" href="/peret/css/fonts.css">
+		<link rel="stylesheet" href="/peret/css/main.css">
+		<link rel="stylesheet" href="/peret/css/media.css">
+		<link rel="stylesheet" href="/peret/libs/swiper/swiper.css">
+		<link rel="stylesheet" href="/peret/libs/fancybox/jquery.fancybox.css">
+		<link rel="stylesheet" href="/peret/css/normalize.css">
+		<link rel="stylesheet" href="/core/css/core.css">
+		<link rel="stylesheet" href="/core/css/bootstrap.css">
+	</head>
+	<body>
+        <div class="loader">
+            <div class="loader_inner"></div>
+        </div>
+		<div class="wrapper" itemscope="" itemtype="http://schema.org/LocalBusiness">
+			<section class="main_content_section">
+				<header class="header" itemscope="" itemtype="https://schema.org/WPHeader">
+					<div class="rd-navbar-wrap" style="">
+						<nav class="rd-navbar rd-navbar-classic rd-navbar-original rd-navbar-static" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-static" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-lg-stick-up-offset="46px" data-xl-stick-up-offset="46px" data-xxl-stick-up-offset="46px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
+							<div class="rd-navbar-collapse-toggle rd-navbar-fixed-element-1 toggle-original" data-rd-navbar-toggle=".rd-navbar-collapse"><span></span></div>
+							<div class="rd-navbar-main-outer">
+								<div class="rd-navbar-main">
+									<!-- RD Navbar Panel-->
+									<div class="rd-navbar-panel">
+										<!-- RD Navbar Toggle-->
+										<button class="rd-navbar-toggle toggle-original" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
+										<!-- RD Navbar Brand-->
+										<div class="rd-navbar-brand">
+											<a class="brand" href="/">
+												<img class="hidden-sm-down" src="peret/img/logo_green.svg" alt="cerca de mi">
+											</a>
+											<link itemprop="url" type="image" href="peret/img/logo_green.svg">
+											<meta itemprop="name" content="Ремонт квартир в Мадриде">
+										</div>                  
+										<div class="rd-navbar-collapse toggle-original-elements">
+											<div class="navbar-collapse-content">                    
+												<div class="logo-caption"><span class=""><b class="fa-map-marker red" aria-hidden="true"></b> Madrid, C. de Serrano, 240</span> <span>Lunes a domingo: de 8:00 a 21:00</span></div>
+												<ul class="social-links">
+													<li><a rel="nofollow" href="https://t.me/" target="_blank"><svg class="svg-inline--fa fa-telegram" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="telegram" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" data-fa-i2svg=""><path fill="currentColor" d="M248,8C111.033,8,0,119.033,0,256S111.033,504,248,504,496,392.967,496,256,384.967,8,248,8ZM362.952,176.66c-3.732,39.215-19.881,134.378-28.1,178.3-3.476,18.584-10.322,24.816-16.948,25.425-14.4,1.326-25.338-9.517-39.287-18.661-21.827-14.308-34.158-23.215-55.346-37.177-24.485-16.135-8.612-25,5.342-39.5,3.652-3.793,67.107-61.51,68.335-66.746.153-.655.3-3.1-1.154-4.384s-3.59-.849-5.135-.5q-3.283.746-104.608,69.142-14.845,10.194-26.894,9.934c-8.855-.191-25.888-5.006-38.551-9.123-15.531-5.048-27.875-7.717-26.8-16.291q.84-6.7,18.45-13.7,108.446-47.248,144.628-62.3c68.872-28.647,83.183-33.623,92.511-33.789,2.052-.034,6.639.474,9.61,2.885a10.452,10.452,0,0,1,3.53,6.716A43.765,43.765,0,0,1,362.952,176.66Z"></path></svg></a></li>
+													<li><a rel="nofollow" href="https://wa.me/" target="_blank"><svg class="svg-inline--fa fa-whatsapp" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="whatsapp" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path></svg></a></li>
+													<li><a rel="nofollow" href="#" target="_blank"><svg class="svg-inline--fa fa-facebook" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg></a></li>
+													<li><a rel="nofollow" href="#" target="_blank"><svg class="svg-inline--fa fa-instagram" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg></a></li>
+												</ul>
+											</div>                    
+										</div>
+										<div class="rd-navbar-brand"><a class="phone heading-3" href="tel:+34653079624"><img class="mobile_logo" src="peret/img/favicon.svg" alt="mobile logo">+34 653 079 624</a></div>
+									</div>
+									<div class="rd-navbar-main-element navbar navbar-expand-lg navbar-light bg-light">
+										<div class="rd-navbar-nav-wrap toggle-original-elements">
+											<!-- RD Navbar Nav-->
+											<ul class="rd-navbar-nav" itemscope="" itemtype="https://www.schema.org/SiteNavigationElement">
+												<li class="nav-item dropdown rd-nav-item">
+													<a class="dropdown-toggle rd-nav-link" href="#servicios" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Servicios</a>
+													<ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+														<li itemprop="name" class="active"><a itemprop="url" class="dropdown-item rd-nav-link" href="#">Услуга 1</a></li>
+														
+														<li itemprop="name"><a itemprop="url" class="dropdown-item rd-nav-link" href="#">Услуга 2</a></li>
+													</ul>
+												</li>
+												<li itemprop="name" class="rd-nav-item"><a itemprop="url" class="rd-nav-link" href="#price">Precios</a>
+												</li>
+												<li itemprop="name" class="rd-nav-item"><a itemprop="url" class="rd-nav-link" href="#contacts">Contactos</a>
+												</li>
+												
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</nav>
+					</div>
+				</header> 	           
+				<div class="main_content">
+					<div class="container">
+						<div class="center_main_block">
+							<div class="content-txt-center">
+								<h1 itemprop="name" class="title_main">ТЕСТИРУЕМ&nbsp;<div>PAGEDOT 2.1</div></h1>
+								<meta itemprop="openingHours" content="Mo-Su">
+								<meta itemprop="logo" content="peret/img/logo_green.svg">
+								<meta itemprop="image" content="peret/img/logo_green.svg">
+								<link itemprop="url" href="https://www.cercade.es/ссылка">
+								<meta itemprop="priceRange" content="15 - 250&nbsp;руб.">
+								<meta itemprop="telephone" content="+34653079624">
+								<div itemscope="" itemprop="address" itemtype="https://schema.org/PostalAddress">
+									<meta itemprop="addressCountry" content="España">
+									<meta itemprop="addressLocality" content="Madrid">
+									<meta itemprop="streetAddress" content="C. de Serrano, 240">
+								</div>
+								<p class="text-title">visita gratuita de un especialista en Madrid</p>
+							</div>
+							<div class="button-center">
+								<a class="fancybox btn knob" href="#pop_up">Envíe su solicitud</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="img-main-center">
+					<img src="peret/img/img1-per.jpg" alt="диван">
+				</div>
+			</section>
+			<main class="main-section">
+				<div class="flex-section">
+					<div class="container">
+						<div class="flex-block-items items-col-5">
+							<div class="item-col">
+								<div class="circle-block">
+									<div class="circle-content">
+										<span>500</span>
+									</div>
+								</div>
+								<p>Более 500 вариантов обивочных тканей.</p>
+							</div>
+							<div class="item-col">
+								<div class="circle-block">
+									<div class="circle-content">
+										<span>2011</span>
+									</div>
+								</div>
+								<p>Большой опыт.<br> Работаем с 2011 года</p>
+							</div>
+							<div class="item-col">
+								<div class="circle-block">
+									<div class="circle-content">
+										<span>200</span>
+									</div>
+								</div>
+								<p>Цена на замену обивки<br> от 150 руб.</p>
+							</div>
+							<div class="item-col">
+								<div class="circle-block">
+									<div class="circle-content">
+										<span>0</span>
+									</div>
+								</div>
+								<p>Бесплатный выезд мастера по Беларуси</p>
+							</div>
+							<div class="item-col">
+								<div class="circle-block">
+									<div class="circle-content">
+										<span>36</span>
+									</div>
+								</div>
+								<p>Гарантия<br> до 36 месяцев.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<section class="hauling-section" id="servicios">
+					<div class="container">
+						<h2 class="title_page">NUESTROS SERVICIOS</h2>
+					</div>
+					<div class="hauling-block">
+						<div class="container">
+							<div class="tabs-blocks">
+								<ul class="link-tabs">
+									<li><a class="item-tab1 active" href="#tab1"><p>Услуги электрика</p></a></li>
+									<li><a class="item-tab3" href="#tab3"><p>Укладка плитки</p></a></li>
+									<li><a class="item-tab4" href="#tab4"><p>Ремонт потолка</p></a></li>
+									<li><a class="item-tab5" href="#tab5"><p>Услуги сантехника</p></a></li>
+									<li><a class="item-tab6" href="#tab6"><p>Услуги электрика</p></a></li>
+									<li><a class="item-tab7" href="#tab7"><p>Перетяжка кухонного уголка</p></a></li>
+									<li><a class="item-tab2" href="#tab2"><p>ремонт</p></a></li>
+									<li><a class="item-tab8" href="#tab8"><p>реставрация</p></a></li>
+								</ul>
+								<div class="tabs-content">
+									<div class="tab-item-contant" id="tab1">
+										<div class="column-tab-item-contant">
+											<div class="top-tab-content">
+												<h3 class="title-content">Профессиональный электрик</h3>
+												<div class="img-tab-content">
+													<img class="images-content" src="peret/img/tab/mjagkaja-mebel.jpg" alt="Услуга по перетяжке мягких уголков из ткани и кожи">
+												</div>
+											</div>
+											<div class="info-tab-content">
+												<div class="text-tab-content">
+													<p>Мебельный каркас служит в несколько раз дольше, чем обивка и наполнитель. Поэтому выгода от перетяжки мягкой мебели очевидна. Мало того, качество исполнения работ нашей компанией выше, чем при серийном производстве. </p>
+													<p>Наш дизайнер приедет с большим выбором образцов ткани, даст необходимые рекомендации и советы. 
+														Несложные работы по обивке мебели мастер сделает на дому, а более сложные в нашем цеху.
+													Мы бесплатно заберём и вернём вашу мебель в обновлённом состоянии. </p>
+												</div>
+												<div class="flex-tab-container">
+													<div class="left-block-flex">
+														<div class="time-work-block"><span>Время работ:</span> от 1 до 10 дней  </div>
+													</div>
+													<div class="right-block-flex">
+														<div class="price-tab-block">
+															от <span>210</span> руб.
+														</div>
+														<div class="button-tab-block">
+															<a class="btn knob fancybox" href="#pop_up">Envíe su solicitud</a>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="tab-item-contant" id="tab2">
+										<div class="column-tab-item-contant">
+											<div class="top-tab-content">
+												<h3 class="title-content">Ремонт мягкой мебели</h3>
+												<div class="img-tab-content">
+													<img class="images-content" src="peret/img/tab/repair.jpg" alt="Услуга по ремонту мягкой мебели из ткани и кожи">
+												</div>
+											</div>
+											<div class="info-tab-content">
+												<div class="text-tab-content">
+													<p>Выполняем ремонт мебели любой сложности. Нужно починить ножку кресла или разбитый каркас кровати, обращайтесь, поможем! Мелкий ремонт производится прямо у вас дома. Более сложный потребует подождать несколько дней, но мы сами заберём и привезём вашу мебель абсолютно бесплатно.</p>
+												</div>
+												<div class="flex-tab-container">
+													<div class="left-block-flex">
+														<div class="time-work-block"><span>Время работ:</span> от 1 до 3 дней  </div>
+													</div>
+													<div class="right-block-flex">
+														<div class="price-tab-block">
+															от <span>50</span> руб.
+														</div>
+														<div class="button-tab-block">
+															<a class="btn knob fancybox" href="#pop_up1">получить консультацию</a>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="tab-item-contant" id="tab3">
+										<div class="column-tab-item-contant">
+											<div class="top-tab-content">
+												<h3 class="title-content">Укладка плитки любой сложности</h3>
+												<div class="img-tab-content">
+													<img class="images-content" src="peret/img/tab/divan.jpg" alt="Услуга по перетяжке диванов из ткани и кожи">
+												</div>
+											</div>
+											<div class="info-tab-content">
+												<div class="text-tab-content">
+													<p>Работаем с любыми видами диванов: с прямыми и угловыми. На выбор большое количество обивочных материалов. Предложим варианты дополнительных декоративных элементов для улучшения дизайна. Перетянем ваши подушки или пошьём новые.</p>
+												</div>
+												<div class="flex-tab-container">
+													<div class="left-block-flex">
+														<div class="time-work-block"><span>Время работ:</span> от 4 до 9 дней  </div>
+													</div>
+													<div class="right-block-flex">
+														<div class="price-tab-block">
+															от <span>250</span> руб.
+														</div>
+														<div class="button-tab-block">
+															<a class="btn knob fancybox" href="#divany">цены</a>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="tab-item-contant" id="tab4">
+										<div class="column-tab-item-contant">
+											<div class="top-tab-content">
+												<h3 class="title-content">Натяжные, гипсовые потолки</h3>
+												<div class="img-tab-content">
+													<img class="images-content" src="peret/img/tab/kresla.jpg" alt="Услуга по перетяжке кресел из ткани и кожи">
+												</div>
+											</div>
+											<div class="info-tab-content">
+												<div class="text-tab-content">
+													<p>Перетяжка кресел – одна из самых популярных услуг. Дизайн может быть как в ретро(винтажном) стиле, так и в современном. Не выбрасывайте старые советские кресла, вызывайте нашего дизайнера! Работаем со всеми типами обивочных материалов.</p>
+												</div>
+												<div class="flex-tab-container">
+													<div class="left-block-flex">
+														<div class="time-work-block"><span>Время работ:</span> от 1 до 3 дней  </div>
+													</div>
+													<div class="right-block-flex">
+														<div class="price-tab-block">
+															от <span>130</span> руб.
+														</div>
+														<div class="button-tab-block">
+															<a class="btn knob fancybox" href="#kresla">цены</a>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="tab-item-contant" id="tab5">
+										<div class="column-tab-item-contant">
+											<div class="top-tab-content">
+												<h3 class="title-content">Усиановка и ремонт сантехники, труб</h3>
+												<div class="img-tab-content">
+													<img class="images-content" src="peret/img/tab/stul.jpg" alt="Услуга по мягких стульев из ткани и кожи">
+												</div>
+											</div>
+											<div class="info-tab-content">
+												<div class="text-tab-content">
+													<p>Антикварные стулья, современные, ручной работы  - всем придадим необходимый клиенту вид и состояние нового изделия. При заказе обивки нескольких стульев или табуреток скидка от 5%.</p>
+												</div>
+												<div class="flex-tab-container">
+													<div class="left-block-flex">
+														<div class="time-work-block"><span>Время работ:</span> от 1 до 2 дней  </div>
+													</div>
+													<div class="right-block-flex">
+														<div class="price-tab-block">
+															от <span>30</span> руб.
+														</div>
+														<div class="button-tab-block">
+															<a class="btn knob fancybox" href="#stul">цены</a>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="tab-item-contant" id="tab6">
+										<div class="column-tab-item-contant">
+											<div class="top-tab-content">
+												<h3 class="title-content">Профессиональный электрик</h3>
+												<div class="img-tab-content">
+													<img class="images-content" src="peret/img/tab/ofisnye-stylja.jpg" alt="Услуга по перетяжке офисных кресел из ткани и кожи">
+												</div>
+											</div>
+											<div class="info-tab-content">
+												<div class="text-tab-content">
+													<p>Качественная перетяжка стульев для офиса. Особой популярностью пользуется ЭКО кожа, которая прослужит не меньше, чем натуральная, а стоит в разы дешевле.</p>
+													<p>Для юридических лиц и крупных заказчиков действуют особые индивидуальные системы скидок и условий. Обращайтесь, рады помочь.</p>
+												</div>
+												<div class="flex-tab-container">
+													<div class="left-block-flex">
+														<div class="time-work-block"><span>Время работ:</span> от 1 до 2 дней  </div>
+													</div>
+													<div class="right-block-flex">
+														<div class="price-tab-block">
+															от <span>130</span> руб.
+														</div>
+														<div class="button-tab-block">
+															<a class="btn knob fancybox" href="#ofis-stul">цены</a>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="tab-item-contant" id="tab7">
+										<div class="column-tab-item-contant">
+											<div class="top-tab-content">
+												<h3 class="title-content">Обивка кухонного уголка</h3>
+												<div class="img-tab-content">
+													<img class="images-content" src="peret/img/tab/kuhonnyi-ugolok.jpg" alt="Услуга по перетяжке кухонных уголков из ткани и кожи">
+												</div>
+											</div>
+											<div class="info-tab-content">
+												<div class="text-tab-content">
+													<p>От ремонта(замены) повреждённых частей каркаса с прошивом пуговиц, кантов и строчек, до простой обивки. Выполняем работы по обивке мебели любой сложности в сжатые сроки. Гарантия от 24-ёх месяцев.</p>
+												</div>
+												<div class="flex-tab-container">
+													<div class="left-block-flex">
+														<div class="time-work-block"><span>Время работ:</span> от 2 до 4 дней  </div>
+													</div>
+													<div class="right-block-flex">
+														<div class="price-tab-block">
+															от <span>190</span> руб.
+														</div>
+														<div class="button-tab-block">
+															<a class="btn knob fancybox" href="#kuhnja">цены</a>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="tab-item-contant" id="tab8">
+										<div class="column-tab-item-contant">
+											<div class="top-tab-content">
+												<h3 class="title-content">Реставрация мягкой мебели</h3>
+												<div class="img-tab-content">
+													<img class="images-content" src="peret/img/tab/restoration.jpg" alt="Услуга по реставрации тканевой и кожаной мебели">
+												</div>
+											</div>
+											<div class="info-tab-content">
+												<div class="text-tab-content">
+													<p>Работаем с любыми видами мебели: </p>
+													<ul class="inline">
+														<li>деревянная,</li>
+														<li>пластиковая,</li>
+														<li>корпусная,</li>
+														<li>мягкая,</li>
+														<li>антикварная,</li>
+														<li>современная.</li>
+													</ul>
+													<p>Модернизированный цех со всем необходимым оборудованием, высококвалифицированные специалисты, большой опыт работы.</p>
+												</div>
+												<div class="flex-tab-container">
+													<div class="left-block-flex">
+														<div class="time-work-block"><span>Время работ:</span> от 2 до 5 дней  </div>
+													</div>
+													<div class="right-block-flex">
+														<div class="price-tab-block">
+															от <span>210</span> руб.
+														</div>
+														<div class="button-tab-block">
+															<a class="btn knob fancybox" href="#pop_up1">получить консультацию</a>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section class="tkani_section" id="price">
+					<div class="container">
+						<h2 class="title_page">Цены на ремонт квартир</h2>
+						<div class="table-skills-block">
+							<table class="table-skills">
+								<tbody>
+									<tr>
+										<td><p>Электрика</p></td>
+										<td><div class="pr-sk">от <span>15</span> евро</div></td>
+									</tr>
+									<tr>
+										<td><p>Плитка</p></td>
+										<td><div class="pr-sk">от <span>21</span> евро</div></td>
+									</tr>
+									<tr>
+										<td><p>Потолок</p></td>
+										<td><div class="pr-sk">от <span>65</span> евро</div></td>
+									</tr>
+									<tr>
+										<td><p>Пол</p></td>
+										<td><div class="pr-sk">от <span>60</span> евро</div></td>
+									</tr>
+									<tr>
+										<td><p>Двери</p></td>
+										<td><div class="pr-sk">от <span>24</span> евро</div></td>
+									</tr>
+									<tr>
+										<td><p>Кухня</p></td>
+										<td><div class="pr-sk">от <span>24</span> евро</div></td>
+									</tr>
+									<tr>
+										<td><p>Окна</p></td>
+										<td><div class="pr-sk">от <span>20</span> евро</div></td>
+									</tr>
+								</tbody>
+							</table>	
+							
+							
+						</div>
+					</div>
+				</section>			
+												<section class="text_section">
+					<div class="container">
+						<h2 class="title_page">ХОТИТЕ ЗАКАЗАТЬ ремонт В Мадриде?00</h2>
+					</div>
+					<div class="hauling-block">
+						<div class="container">
+							<div class="text_block">
+								<p>текст текст текст текст</p>
+							</div>
+							<div class="tags-container">
+								<a class="fancybox btn knob" href="#pop_up">из дуба	</a>
+								<a class="fancybox btn knob" href="#pop_up">из сосны </a>
+								<a class="fancybox btn knob" href="#pop_up">из лиственницы	</a>
+								<a class="fancybox btn knob" href="#pop_up">из ясеня </a>
+								<a class="fancybox btn knob" href="#pop_up">из бука </a>
+								<a class="fancybox btn knob" href="#pop_up">из стекла	</a>
+								<a class="fancybox btn knob" href="#pop_up">из бетона	</a>
+								<a class="fancybox btn knob" href="#pop_up">из дерева	</a>
+								<a class="fancybox btn knob" href="#pop_up">пряые</a>
+								<a class="fancybox btn knob" href="#pop_up">поворотные	</a>
+								<a class="fancybox btn knob" href="#pop_up">винтовые	</a>
+								<a class="fancybox btn knob" href="#pop_up">на косоурах	</a>
+								<a class="fancybox btn knob" href="#pop_up">на тетивах	</a>
+								<a class="fancybox btn knob" href="#pop_up">с забежными ступенями	</a>
+								<a class="fancybox btn knob" href="#pop_up">с площадкой	</a>
+								<a class="fancybox btn knob" href="#pop_up">кованные </a>
+							</div>
+						</div>
+					</div>
+				</section>	 
+				<section class="scheme_work_section">
+					<div class="container">
+						<h2 class="title_page">схема работы</h2>
+						<div class="flex-schema-work flex-schema-col-4">
+							<div class="item_sch_work">
+								<div class="namber_sch_work namber_sch_work1">
+									01
+								</div>
+								<p>Оставьте заявку или позвоните <a href="tel:+34653079624">+34 653 079 624</a></p>
+							</div>
+							<div class="item_sch_work">
+								<div class="namber_sch_work namber_sch_work2">
+									02
+								</div>
+								<p>Назначьте дату и время визита</p>
+							</div>
+							<div class="item_sch_work">
+								<div class="namber_sch_work namber_sch_work3">
+									03
+								</div>
+								<p>Приезжаем, увозим мебель в цех или меняем обивку на месте</p>
+							</div>
+							<div class="item_sch_work">
+								<div class="namber_sch_work namber_sch_work4">
+									04
+								</div>
+								<p>Заказ выполнен, довольный клиент вносит оплату</p>
+							</div>
+						</div>
+					</div>
+				</section> 
+				<section class="form-section">
+	<div class="container">
+		<div class="man-block"></div>
+		<div class="form-block-main">
+			<h2 class="title_page title_page_white">Хотете рассчитать стоимость перетяжки <span>прямо сейчас?</span></h2>
+			<form class="form"><input type="text" placeholder="Отправить письмо" name="text[send_mail]">
+				<input class="input-block" type="text" name="text[name]" placeholder="Введите ваше имя">
+				<input class="input-block" type="tel" name="text[tel]" placeholder="Введите ваш телефон" required="">
+				<button class="btn" type="submit">оставить заявку</button>
+			</form>
+		</div>
+	</div>
+</section>								<section class="faq-section" itemscope="" itemtype="https://schema.org/FAQPage">
+					<div class="container">
+						<h2 class="title_page">вопросы и ответы</h2>
+						<div class="faq-block-content">
+							<div class="faq-item" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+								<div class="faq-question">
+									<p>Сколько дней длится ремонт?</p>
+								</div>
+								<div class="faq-answer" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+									<p>Конечно можете. Однако в подавляющем большинстве случаев, у нас Вы найдете то, что Вам нужно. При этом съэкономите на стомости, цена обивки будет на 10-15% ниже рыночной.</p>
+								</div>
+							</div>
+							<div class="faq-item" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+								<div class="faq-question">
+									<p>Сколько будут стоить материалы для ремонта?</p>
+								</div>
+								<div class="faq-answer" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+									<p>Все, кроме механических и полученных в результате нарушения правил эксплуатации. Стараемся всегда пойти клиенту на встречу, однако, если вы случайно проткнете обивку ножом или котик поточит коготки о спинку дивана, мы будем бессильны.</p>
+								</div>
+							</div>
+							<div class="faq-item" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+								<div class="faq-question">
+									<p>Как скоро можно приступить к ремонту?</p>
+								</div>
+								<div class="faq-answer" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+									<p>Однозначно в мастерской. На территории клиента можно выполнить мелкую перетяжку. В остальных случаях увозим мебель в цех. Все транспортные заботы мы берем на себя. Перевозка в пределах города бесплатно.</p>
+								</div>
+							</div>
+							<div class="faq-item" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+								<div class="faq-question">
+									<p>Есть скидки?</p>
+								</div>
+								<div class="faq-answer" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+									<p>При заказе услуги по перетяжке мебели в нашей компании мы предоставляем скидку 5%. Постоянным клиентам 10%. При крупных заказах 15%. Остальные варианты обсуждаются с каждым клиентом отдельно.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+					
+				<section class="foto-do-i-posle-section">
+					<div class="container">
+						<h2 class="title_page">Фото наших работ</h2>
+					</div>
+					<div class="hauling-block">
+						<div class="container">
+							<div class="swiper mySwiper">
+								<div class="swiper-wrapper">
+									<div class="swiper-slide">
+										<a data-fancybox="photo_group" href="peret/img/photo/do_i_posle1.jpg"><img src="peret/img/photo/do_i_posle1.jpg"></a>
+									</div>
+									<div class="swiper-slide">
+										<a data-fancybox="photo_group" href="peret/img/photo/do_i_posle1.jpg"><img src="peret/img/photo/do_i_posle1.jpg"></a>
+									</div>
+									<div class="swiper-slide">
+										<a data-fancybox="photo_group" href="peret/img/photo/do_i_posle1.jpg"><img src="peret/img/photo/do_i_posle1.jpg"></a>
+									</div>
+									<div class="swiper-slide">
+										<a data-fancybox="photo_group" href="peret/img/photo/do_i_posle1.jpg"><img src="peret/img/photo/do_i_posle1.jpg"></a>
+									</div>
+									<div class="swiper-slide">
+										<a data-fancybox="photo_group" href="peret/img/photo/do_i_posle1.jpg"><img src="peret/img/photo/do_i_posle1.jpg"></a>
+									</div>
+								</div>
+								<div class="swiper-pagination"></div>
+								<div class="swiper-button-prev"></div>
+								<div class="swiper-button-next"></div>
+							</div>
+						</div>
+					</div>
+				</section>
+								
+				<section class="form-section">
+	<div class="container">
+		<div class="man-block"></div>
+		<div class="form-block-main">
+			<h2 class="title_page title_page_white">Оставьте заявку <span>прямо сейчас</span></h2>
+			<form class="form"><input type="text" placeholder="Отправить письмо" name="text[send_mail]">
+				<input class="input-block" type="text" name="text[name]" placeholder="Введите ваше имя">
+				<input class="input-block" type="tel" name="text[tel]" placeholder="Введите ваш телефон" required="">
+				<button class="btn" type="submit">оставить заявку</button>
+			</form>
+		</div>
+	</div>
+</section>	       
+			</main>
+			<div class="hidden">
+				<div id="pop_up" class="pop_up">
+					<h4 class="title_popup">Оставить заявку</h4>
+					<p class="txt-popup">Обычно время ожидания звонка от специалиста не занимает более одного часа.
+					Рабочее время для осуществления звонков наших сотрудников с 8:00 до 21:00</p>
+					<form class="form-popup"><input type="text" placeholder="Отправить письмо" name="text[send_mail]">
+						<input class="input-popup" type="text" name="text[name]" placeholder="Введите ваше имя">
+						<input class="input-popup" type="tel" name="text[tel]" placeholder="Введите ваш телефон" required="">
+						<button class="btn knob" type="submit">Оставить заявку</button>
+					</form>
+				</div>
+			</div>
+			<div class="hidden">
+				<div id="pop_up1" class="pop_up">
+					<h4 class="title_popup">Бесплатная консультация</h4>
+					<p class="txt-popup">Хотите узнать стоимость работ по перетяжке мебели, варианты обивки, посоветоваться с мастером или дизайнером? Заполните данные формы и мы обязательно перезвоним Вам!</p>
+					<form class="form-popup"><input type="text" placeholder="Отправить письмо" name="text[send_mail]">
+						<input class="input-popup" type="text" name="text[name]" placeholder="Введите ваше имя">
+						<input class="input-popup" type="tel" name="text[tel]" placeholder="Введите ваш телефон" required="">
+						<button class="btn knob" type="submit">отправить</button>
+					</form>
+				</div>
+			</div>
+			<div class="hidden">
+				<div id="m-mebel" class="price-table">
+					<table class="table">
+						<tbody>
+							<tr>
+								<td><p>Диван</p></td>
+								<td><div class="pr-sk">от <span>250</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Кресло</p></td>
+								<td><div class="pr-sk">от <span>130</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Тахта</p></td>
+								<td><div class="pr-sk">от <span>205</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Пуфики и банкетки</p></td>
+								<td><div class="pr-sk">от <span>38</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Обивка изголовья кровати</p></td>
+								<td><div class="pr-sk">от <span>130</span> руб.</div></td>
+							</tr>
+							
+						</tbody>
+					</table>
+					<form class="form-popup"><input type="text" placeholder="Отправить письмо" name="text[send_mail]">
+						<input class="input-popup" type="text" name="text[name]" placeholder="Введите ваше имя">
+						<input class="input-popup" type="tel" name="text[tel]" placeholder="Введите ваш телефон" required="">
+						<button class="btn knob" type="submit">оставить заявку</button>
+					</form>
+				</div>
+			</div>
+			<div class="hidden">
+				<div id="divany" class="price-table">
+					<table class="table">
+						<tbody><tr>
+							<td><p>Кожаные диваны</p></td>
+							<td><div class="pr-sk">от <span>500</span> руб.</div></td>
+						</tr>
+						<tr>
+							<td><p>Угловые диваны</p></td>
+							<td><div class="pr-sk">от <span>250</span> руб.</div></td>
+							</tr><tr>
+								<td><p>Пружинные диваны</p></td>
+								<td><div class="pr-sk">от <span>250</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Подлокотники дивана</p></td>
+								<td><div class="pr-sk">от <span>130</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Старые и очень старые диваны</p></td>
+								<td><div class="pr-sk">от <span>280</span> руб.</div></td>
+							</tr>
+						</tbody></table>
+						<form class="form-popup"><input type="text" placeholder="Отправить письмо" name="text[send_mail]">
+							<input class="input-popup" type="text" name="text[name]" placeholder="Введите ваше имя">
+							<input class="input-popup" type="tel" name="text[tel]" placeholder="Введите ваш телефон" required="">
+							<button class="btn knob" type="submit">Оставить заявку</button>
+						</form>
+					</div>
+				</div>
+				<div class="hidden">
+					<div id="kresla" class="price-table">
+						<table class="table">
+							<tbody><tr>
+								<td><p>Домашние мягкие кресла</p></td>
+								<td><div class="pr-sk">от <span>130</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Офисные кресла</p></td>
+								<td><div class="pr-sk">от <span>90</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Компьютерные кресла</p></td>
+								<td><div class="pr-sk">от <span>90</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Стоматологические кресла</p></td>
+								<td><div class="pr-sk">от <span>200</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Парикмахерские кресла</p></td>
+								<td><div class="pr-sk">от <span>150</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Перетяжка старых и антикварных кресел</p></td>
+								<td><div class="pr-sk">от <span>200</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Ремонт и реставрация кресел</p></td>
+								<td><div class="pr-sk">от <span>150</span> руб.</div></td>
+							</tr>
+							</tbody></table>
+							<form class="form-popup"><input type="text" placeholder="Отправить письмо" name="text[send_mail]">
+								<input class="input-popup" type="text" name="text[name]" placeholder="Введите ваше имя">
+								<input class="input-popup" type="tel" name="text[tel]" placeholder="Введите ваш телефон" required="">
+								<button class="btn knob" type="submit">оставить заявку</button>
+							</form>
+					</div>
+				</div>
+				<div class="hidden">
+					<div id="stul" class="price-table">
+						<table class="table">
+							<tbody><tr>
+								<td><p>Мягкий стул</p></td>
+								<td><div class="pr-sk">от <span>100</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Кухонный стул</p></td>
+								<td><div class="pr-sk">от <span>70</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Барный стул</p></td>
+								<td><div class="pr-sk">от <span>100</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Офисный стул</p></td>
+								<td><div class="pr-sk">от <span>70</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Компьютерный стул</p></td>
+								<td><div class="pr-sk">от <span>90</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Стул с декоративной тесьмой и гвоздями</p></td>
+								<td><div class="pr-sk">от <span>70</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Стул честер</p></td>
+								<td><div class="pr-sk">от <span>100</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Стул с двойной спинкой</p></td>
+								<td><div class="pr-sk">от <span>90</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Ремонт</p></td>
+								<td><div class="pr-sk">от <span>50</span> руб.</div></td>
+							</tr>
+							</tbody></table>
+							<form class="form-popup"><input type="text" placeholder="Отправить письмо" name="text[send_mail]">
+								<input class="input-popup" type="text" name="text[name]" placeholder="Введите ваше имя">
+								<input class="input-popup" type="tel" name="text[tel]" placeholder="Введите ваш телефон" required="">
+								<button class="btn knob" type="submit">оставить заявку</button>
+							</form>
+					</div>
+				</div>
+				<div class="hidden">
+					<div id="ofis-stul" class="price-table">
+						<table class="table">
+							<tbody><tr>
+								<td><p>Кресло посетителя</p></td>
+								<td><div class="pr-sk">от <span>80</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Кресло сотрудника</p></td>
+								<td><div class="pr-sk">от <span>90</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Кресло руководителя</p></td>
+								<td><div class="pr-sk">от <span>100</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Ремонт или замена крестовины</p></td>
+								<td><div class="pr-sk">от <span>30</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Замена колесиков</p></td>
+								<td><div class="pr-sk">от <span>50</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Ремонт или замена подлокотников</p></td>
+								<td><div class="pr-sk">от <span>95</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Ремонт или замена газлифтов</p></td>
+								<td><div class="pr-sk">от <span>90</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Ремонт механизма качания</p></td>
+								<td><div class="pr-sk">от <span>130</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Апгрейд кресла</p></td>
+								<td><div class="pr-sk">от <span>100</span> руб.</div></td>
+							</tr>
+							</tbody></table>
+							<form class="form-popup"><input type="text" placeholder="Отправить письмо" name="text[send_mail]">
+								<input class="input-popup" type="text" name="text[name]" placeholder="Введите ваше имя">
+								<input class="input-popup" type="tel" name="text[tel]" placeholder="Введите ваш телефон" required="">
+								<button class="btn knob" type="submit">оставить заявку</button>
+							</form>
+					</div>
+				</div>
+				<div class="hidden">
+					<div id="kuhnja" class="price-table">
+						<table class="table">
+							<tbody><tr>
+								<td><p>Стандартный уголок (мягки спинки и сидушки)</p></td>
+								<td><div class="pr-sk">от <span>100</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Нестандартный уголок (мягкие подголовники, подлокотники, фасад уголка обтянут тканью)</p></td>
+								<td><div class="pr-sk">от <span>120</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Мелкий ремонт (ножки, ролики)</p></td>
+								<td><div class="pr-sk">от <span>70</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Средний ремонт (подлокотники, мелкие корпусные проблемы)</p></td>
+								<td><div class="pr-sk">от <span>120</span> руб.</div></td>
+							</tr>
+							<tr>
+								<td><p>Крупные ремонт (корпус, механизм) </p></td>
+								<td><div class="pr-sk">от <span>200</span> руб.</div></td>
+							</tr>
+							</tbody></table>
+							<form class="form-popup"><input type="text" placeholder="Отправить письмо" name="text[send_mail]">
+								<input class="input-popup" type="text" name="text[name]" placeholder="Введите ваше имя">
+								<input class="input-popup" type="tel" name="text[tel]" placeholder="Введите ваш телефон" required="">
+								<button class="btn knob" type="submit">оставить заявку</button>
+							</form>
+					</div>
+				</div>
+				<footer class="footer" id="contacts">
+					<div class="top-block-footer">
+						<div class="container flex_block">
+							<div class="left-content">
+								<div class="logo">
+									<a href="/">
+										<span>cerca</span> de mí
+									</a>
+								</div>
+								<div class="text_logo">
+									<p>Бесплатный выезд с образцами по всей обл.</p>
+								</div>
+							</div>
+							<div class="center-content">
+								<div class="schedule_block_main">
+									<span class="time_schedule">Lunes a domingo: de 8:00 a 21:00</span>
+								</div>            
+							</div>
+							<div class="right-content">
+								<div class="tel-block">
+									<a href="tel:+34653079624">+34 653 079 624</a>
+								</div>
+								<div class="button_main_block">
+									<a class="fancybox btn" href="#pop_up">LLÁMENOS AHORA</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="bottom-block-footer">
+						<div class="container flex_block">
+							<p>CercaDe © 2023. Reservados todos los derechos. <a href="https://cercade.es/politica-de-privacidad/">Política de privacidad.</a></p>
+							<div id="button-up"></div>
+						</div>
+					</div>
+				</footer>
+			</div>
+			<script src="/peret/libs/jquery/jquery-1.11.2.min.js"></script>
+			<script src="/peret/libs/swiper/swiper-bundle.min.js"></script>
+			<script src="/peret/libs/maskedinput/jquery.maskedinput.min.js"></script>
+			<script src="/peret/libs/fancybox/jquery.fancybox.min.js"></script>
+			<script src="/peret/libs/ie/ie.js"></script>
+			<script src="/peret/js/common.js"></script>
+			<script src="/core/js/core.js"></script>
+			<script src="app/script.js" id="pagedot-pdscript"></script><link rel="stylesheet" href="css/index.php.css?1700144556" id="pagedot-pdstyle">
+</body>
+		</html>
+		

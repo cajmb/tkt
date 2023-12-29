@@ -1,0 +1,451 @@
+html,
+body,
+ {
+	height: 100%;
+
+}
+
+
+/* header */
+
+.header {
+  background-color: #4a82ec;
+  box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 3;
+}
+
+.header ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  overflow: hidden;
+  background-color: #4a82ec;
+}
+
+.header li a {
+  display: block;
+  padding: 20px 20px;
+  border-left: 1px solid #f4f4f4;
+  text-decoration: none;
+}
+
+.header li a:hover,
+.header .menu-btn:hover {
+  background-color: #4a82ec;
+}
+
+.header .logo {
+  display: block;
+  float: left;
+  font-size: 2em;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+/* menu */
+
+.header .menu {
+  clear: both;
+  max-height: 0;
+  transition: max-height .2s ease-out;
+}
+
+/* menu icon */
+
+.header .menu-icon {
+  cursor: pointer;
+  display: inline-block;
+  float: right;
+  padding: 28px 20px;
+  position: relative;
+  user-select: none;
+}
+
+.header .menu-icon .navicon {
+  background: #333;
+  display: block;
+  height: 2px;
+  position: relative;
+  transition: background .2s ease-out;
+  width: 18px;
+}
+
+.header .menu-icon .navicon:before,
+.header .menu-icon .navicon:after {
+  background: #333;
+  content: '';
+  display: block;
+  height: 100%;
+  position: absolute;
+  transition: all .2s ease-out;
+  width: 100%;
+}
+
+.header .menu-icon .navicon:before {
+  top: 5px;
+}
+
+.header .menu-icon .navicon:after {
+  top: -5px;
+}
+
+/* menu btn */
+
+.header .menu-btn {
+  display: none;
+}
+
+.header .menu-btn:checked ~ .menu {
+  max-height: 240px;
+}
+
+.header .menu-btn:checked ~ .menu-icon .navicon {
+  background: transparent;
+}
+
+.header .menu-btn:checked ~ .menu-icon .navicon:before {
+  transform: rotate(-45deg);
+}
+
+.header .menu-btn:checked ~ .menu-icon .navicon:after {
+  transform: rotate(45deg);
+}
+
+.header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
+.header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
+  top: 0;
+}
+
+/* 48em = 768px */
+
+@media (min-width: 48em) {
+  .header li {
+    float: left;
+  }
+  .header li a {
+    padding: 20px 30px;
+  }
+  .header .menu {
+    clear: none;
+    float: right;
+    max-height: none;
+  }
+  .header .menu-icon {
+    display: none;
+  }
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+                            /* ИГРОКИ */
+.row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -20px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.col-12 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    position: relative;
+    width: 100%;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.breadcrumb {
+    padding: 44px 15px 14px 1px;
+    margin-top: 0;
+    margin-bottom: 8px;
+    list-style: none;
+    background-color: transparent;
+    border-radius: 0;
+    line-height: 1;
+}
+.breadcrumb ol {
+    margin: 0;
+    font-family: FuturaDemi, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    letter-spacing: .3px;
+    text-transform: uppercase;
+}
+.breadcrumb li {
+    display: inline-block;
+    line-height: 1.25;
+}
+.breadcrumb li {
+    list-style-type: none;
+    font-size: 8px;
+    color: #000000;
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Suez One', serif;
+    font-family: 'Vina Sans', sans-serif;
+    font-family: 'Young Serif', serif;
+
+}
+a {
+    color: #28b2ed;
+    text-decoration: none;
+    cursor: pointer;
+    -webkit-transition: color .3s;
+    transition: color .3s;
+}
+a {
+    margin: 0;
+    padding: 0;
+    background: 0 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+.fa fa-chevron-right {
+font-size: 8px;
+}
+.big-title {
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-weight: 400;
+    color: #000000;
+    line-height: 1.125;
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Suez One', serif;
+    font-family: 'Vina Sans', sans-serif;
+    font-family: 'Young Serif', serif;
+
+    word-wrap: break-word;
+}
+.team-card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  display: inline-block;
+  margin-left: 125px;
+  margin-top: 25px;
+}
+.team-card>img{
+  width: 230px;
+  vertical-align: top;
+  position: relative;
+  height: 300px;
+}
+.team-card>h1{
+font-size: 18px;
+font-family: 'Roboto', sans-serif;
+color: #4a82ec;
+}
+
+.team-title {
+  color: #4a82ec;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #4a82ec;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+button:hover, a:hover {
+  opacity: 0.7;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+nav {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  padding: 20px;
+  text-align: center;
+  font-family: Raleway;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+#nav-2 {
+  background: #4a82ec;
+  width: 100%;
+}
+.link-2 {
+  transition: 0.6s;
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: none;
+  border-right: 2px dotted transparent;
+  padding: 30px 8px 0 10px;
+  margin: 0 10px;
+}
+.link-2:hover {
+  border-right: 2px dotted #ffffff;
+  padding-bottom: 24px;
+}
+
+.static1{
+text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+ /* Подвал */
+
+a {
+    color: #1d6275;
+    text-decoration: none;
+    transition: all.2s ease;
+    -ms-transition: all.2s ease;
+    -o-transition: all.2s ease;
+    -moz-transition: all.2s ease;
+    -webkit-transition: all.2s ease;
+}
+
+a:hover {
+    color: #8ab2d0;
+    text-decoration: none;
+    transition: all.2s ease;
+    -ms-transition: all.2s ease;
+    -o-transition: all.2s ease;
+    -moz-transition: all.2s ease;
+    -webkit-transition: all.2s ease;
+}
+img {
+        width: 40px; /* Ширина изображения */
+        height: 40px; /* Высота изображения */
+        margin: 100;
+        padding: 100;
+        position:absolute;
+        text-align: left;
+}
+
+
+h3{
+    color: #8ab2d0;
+    padding: 50px;
+    margin: 50px;
+}
+
+
+
+	.description {
+		--text-size-offset: 0.065;
+		font-weight: 500;
+	}
+
+	&.current--info {
+		opacity: 1;
+		display: block;
+	}
+	&.previous--info,
+	&.next--info {
+		opacity: 0;
+		display: none;
+	}
+}
+
+.loading__wrapper {
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background: #000;
+	z-index: 200;
+	.loader--text {
+		color: #fff;
+		font-family: "Montserrat";
+		font-weight: 500;
+		margin-bottom: 1.4rem;
+	}
+	.loader {
+		position: relative;
+		width: 200px;
+		height: 2px;
+		background: rgba(255, 255, 255, 0.25);
+		span {
+			position: absolute;
+			left: 0;
+			top: 0;
+			width: 100%;
+			height: 100%;
+			background: rgb(255, 0, 0);
+			transform: scaleX(0);
+			transform-origin: left;
+		}
+	}
+}
+
+@media only screen and (min-width: 800px) {
+	:root {
+		--card-width: 250px;
+		--card-height: 400px;
+	}
+}
+
+a {
+  color: #fff;
+}
+.footer {
+  background-color: #4a82ec;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  top: 800px;
+  width: 100%;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+#social {
+    float: right;
+    widht: 20%;
+    margin-right: 3%;
+}
+#social>a {
+    widht; 40px;
+    height: 40px;
+    padding-right: 35px;
+}
+#rights {
+    float: left;
+    margin-left: 1%;
+    margin-bottom: 10%;
+}
+@media (max-widht: 520px) {
+    #social {
+        widht: 100%;
+    }
+}
